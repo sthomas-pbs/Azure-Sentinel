@@ -335,6 +335,7 @@ ASALocalRun/
 Hunting Queries/DeployedQueries.json
 
 #Mac OSx
+<<<<<<< HEAD
 .DS_Store
 DataConnectors/AWS-S3/Logs/AwsS3-07021417.csv
 DataConnectors/AWS-S3/Logs/AwsS3-07021424.csv
@@ -344,3 +345,7 @@ DataConnectors/AWS-S3/Logs/AwsS3-07021502.csv
 DataConnectors/AWS-S3/Logs/AwsS3-07021509.csv
 DataConnectors/AWS-S3/Logs/AwsS3-07031145.csv
 DataConnectors/AWS-S3/Logs/AwsS3-07031201.csv
+=======
+.DS_Store
+!*Microsoft.Azure.Sentinel.KustoServices.*.nupkg
+>>>>>>> 6e59016f38ba0041420046c0e3abf3cfa22eb72d
